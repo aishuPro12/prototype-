@@ -58,7 +58,7 @@ nav ul li{
 
 .info {
   padding: 6vh 20vh;
-  box-shadow:3vh 1vh 3vh 3vh grey inset;
+  box-shadow:3vh 1vh 3vh 3vh grey ;
   background-image: linear-gradient(120deg, #f5f8de 0%, #545643 100%);
 }
 .minfo {
